@@ -1,0 +1,8 @@
+C:\Users\Student\source\repos\CyberBot\CyberBot\bin\Debug\CyberBot.exe.config
+C:\Users\Student\source\repos\CyberBot\CyberBot\bin\Debug\CyberBot.exe
+C:\Users\Student\source\repos\CyberBot\CyberBot\bin\Debug\CyberBot.pdb
+C:\Users\Student\source\repos\CyberBot\CyberBot\obj\Debug\CyberBot.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\CyberBot\CyberBot\obj\Debug\CyberBot.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CyberBot\CyberBot\obj\Debug\CyberBot.exe
+C:\Users\Student\source\repos\CyberBot\CyberBot\obj\Debug\CyberBot.pdb
+C:\Users\Student\source\repos\CyberBot\CyberBot\obj\Debug\CyberBot.exe.config
